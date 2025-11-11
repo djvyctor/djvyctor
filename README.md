@@ -1,21 +1,30 @@
 ### Olá, me chamo Victor Medeiros e seja bem-vindo ao meu GitHub!
 <br> 
 
-Se você deseja trocar experiências, colaborar em projetos ou ampliar sua rede profissional, fique à vontade para entrar em contato comigo pelo LinkedIn ou e-mail.
+Profisional de TI com foco em Cibersegurança e apps desktop.
 
 <div>
   <a href="https://github.com/djvyctor"></a>
 </div>
 
-Com que estou trabalhando no momento:  
+Tecnologias em que uso no momento:
+
 <code><img
     height="30"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    alt="Logo Python"/></code>
+    alt="Logo Python"/></code>&nbsp;&nbsp;
 <code><img
     height="30"
     src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png"
-    alt="Logo C#"/></code>
+    alt="Logo C#"/></code>&nbsp;&nbsp;
+<code><img
+    height="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+    alt="Logo Linux"/></code>&nbsp;&nbsp;
+<code><img
+    height="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+    alt="Logo Bash/Shell"/></code>
 
   <h2>Contatos</h2>
 
