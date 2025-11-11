@@ -1,7 +1,7 @@
 ### Olá, me chamo Victor Medeiros e seja bem-vindo ao meu GitHub!
 <br> 
 
-Profisional de TI com foco em Cibersegurança e apps desktop.
+Profissional de TI com foco em Cibersegurança e apps desktop.
 
 <div>
   <a href="https://github.com/djvyctor"></a>
