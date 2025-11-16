@@ -15,8 +15,8 @@ Tecnologias em que uso no momento:
     alt="Logo Python"/></code>&nbsp;&nbsp;
 <code><img
     height="30"
-    src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png"
-    alt="Logo C#"/></code>&nbsp;&nbsp;
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    alt="Logo Java"/></code>&nbsp;&nbsp;
 <code><img
     height="30"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
