@@ -1,16 +1,37 @@
-## Hi there 👋
+### Olá, me chamo Victor Medeiros e seja bem-vindo ao meu GitHub!
+<br> 
 
-<!--
-**djvyctor/djvyctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de TI com foco em Cibersegurança e apps desktop.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/djvyctor"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias em que uso no momento:
+
+<code><img
+    height="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    alt="Logo Python"/></code>&nbsp;&nbsp;
+<code><img
+    height="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    alt="Logo PHP"/></code>&nbsp;&nbsp;
+<code><img
+    height="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+    alt="Logo Linux"/></code>&nbsp;&nbsp;
+<code><img
+    height="30"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+    alt="Logo Bash/Shell"/></code>
+
+  <h2>Contatos</h2>
+
+ <div> 
+    <a href="https://www.instagram.com/victor_sec/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:victormedeirosd7m5@outlook.com"><img alt="Outlook" src="https://img.shields.io/static/v1?style=for-the-badge&message=Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label="></a>
+    <a href="https://www.linkedin.com/in/victorcybersecurity/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
+
+ ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
