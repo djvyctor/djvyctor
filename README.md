@@ -7,7 +7,7 @@
 ### 🚀 Sobre mim
 
 - 👨‍💻 Atuo em **Cibersegurança e Desenvolvimento**
-- 🔒 Apaixonado por defender sistemas e buscar vulnerabilidades
+- 🔒 Defendo sistemas e busco vulnerabilidades
 - 📚 Sempre explorando novas tecnologias e automações
 - 💡 Ethical Hacker em constante evolução
 
