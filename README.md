@@ -7,11 +7,11 @@
 ### 🚀 Sobre mim
 
 - 👨‍💻 Atuo em **Cibersegurança e Desenvolvimento**
-- 🔒 Apaixonado por defender sistemas e buscar vulnerabilidades
+- 🔒 Defendo sistemas e busco vulnerabilidades
 - 📚 Sempre explorando novas tecnologias e automações
 - 💡 Ethical Hacker em constante evolução
 
-<!-- Centraliza o GIF após a seção sobre mim -->
+
 <p align="center">
   <img alt="Coding" height="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </p>
