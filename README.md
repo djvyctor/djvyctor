@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/djvyctor/djvyctor/main/banner.png" alt="DJVYCTOR" width="100%" />
+<img src="https://raw.githubusercontent.com/djvyctor/djvyctor/main/banner.png" alt="" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40C057&size=24&center=true&vCenter=true&width=700&lines=Olá,+me+chamo+Victor+Medeiros;Bem-vindo+ao+meu+GitHub!;Cibersegurança+e+Desenvolvimento+%F0%9F%94%91)](https://git.io/typing-svg)
 
@@ -7,10 +7,9 @@
 ### 🚀 Sobre mim
 
 - 👨‍💻 Atuo em **Cibersegurança e Desenvolvimento**
-- 🔒 Defendo sistemas e busco vulnerabilidades
+- 🔒 Apaixonado por defender sistemas e buscar vulnerabilidades
 - 📚 Sempre explorando novas tecnologias e automações
 - 💡 Ethical Hacker em constante evolução
-
 
 <p align="center">
   <img alt="Coding" height="170" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
@@ -35,12 +34,6 @@
 </div>
 
 <br>
-
----
-
-### 💡 Citação Hacker do Dia
-
-![Quote](https://github-readme-quotes.vercel.app/api?type=horizontal&theme=dark&quote="The+most+secure+computer+is+the+one+that+is+off...+But+even+then,+I'm+not+so+sure!"&author=Gene+Spafford)
 
 ---
 
