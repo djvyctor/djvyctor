@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, World! I'm Victor Medeiros**  
+# 👋 Hello, World! I'm Victor Medeiros  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="developer emoji" width="40"/>  
 
 ✨ Focado em Cibersegurança e um pouco de programação  
