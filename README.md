@@ -12,15 +12,6 @@
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/victordevsec/?trk=opento_sprofile_topcard">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
@@ -30,13 +21,6 @@
 | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/> <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI"/> | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/> <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/> | <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/> <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Shell"/> <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/> <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/> |
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=djvyctor&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
 
 ---
 ## 📊 GitHub Insights
