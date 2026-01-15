@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Victor Medeiros
-### Desenvolvedor Full Stack 🚀
+# Olá, eu sou o Victor Medeiros
+### Desenvolvedor Backend 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="developer emoji" width="80"/>
 
