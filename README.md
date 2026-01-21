@@ -22,18 +22,6 @@ Utilizo tecnologias modernas para construir aplicações seguras, robustas e esc
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
-</div>
-
-### 📈 Nível de Proficiência
-> Uma visão transparente sobre meu domínio técnico atual:
-
-* **PHP & Laravel** (Desenvolvimento Web)
-  ![PHP](https://img.shields.io/badge/70%25-777BB4?style=flat-square)
-* **Go** (Alta Performance, Concorrência)
-  ![Go](https://img.shields.io/badge/80%25-00ADD8?style=flat-square)
-* **Python** (Automação, Scripting)
-  ![Python](https://img.shields.io/badge/90%25-3776AB?style=flat-square)
-
 ---
 
 ## 🎯 Sobre Mim
