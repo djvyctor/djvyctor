@@ -1,7 +1,7 @@
 <div align="center">
 
-# Olá, eu sou o Victor Medeiros
-### Desenvolvedor Backend | Entusiasta de Cibersegurança
+# Victor Medeiros
+### Fullstack Developer
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="developer emoji" width="100"/>
 
@@ -27,25 +27,25 @@ Utilizo tecnologias modernas para construir aplicações seguras, robustas e esc
 ### 📈 Nível de Proficiência
 > Uma visão transparente sobre meu domínio técnico atual:
 
-* **Python** (Backend, Automação, Scripting)
-  ![Python](https://img.shields.io/badge/90%25-3776AB?style=flat-square)
-* **Go** (Alta Performance, Concorrência)
-  ![Go](https://img.shields.io/badge/75%25-00ADD8?style=flat-square)
-* **PHP & Laravel** (Desenvolvimento Web Moderno)
+* **PHP & Laravel** (Desenvolvimento Web)
   ![PHP](https://img.shields.io/badge/70%25-777BB4?style=flat-square)
+* **Go** (Alta Performance, Concorrência)
+  ![Go](https://img.shields.io/badge/80%25-00ADD8?style=flat-square)
+* **Python** (Automação, Scripting)
+  ![Python](https://img.shields.io/badge/90%25-3776AB?style=flat-square)
 
 ---
 
 ## 🎯 Sobre Mim
-- 🎓 **Background:** Graduado em Cibersegurança, com foco em desenvolvimento seguro (AppSec).
+- 🎓 **Background:** Graduado em Cibersegurança e Pós em Análise e Desenvolvimento de Sistemas.
 - 🔭 **Foco Atual:** Criando soluções de alta performance com **Go** e aplicações robustas com **Laravel**.
-- 🐍 **Especialidade:** Profundo conhecimento no ecossistema **Python** para automação e APIs.
+- 🐍 **Especialidade:** Profundo conhecimento no ecossistema **Python** para automação.
 - ⚡ **Diferencial:** Uno boas práticas de segurança com código limpo e eficiente.
 
 ---
 
 <div align="center">
-  <p>Vamos conectar?</p>
+  <p>Meu LinkedIn</p>
   <a href="https://www.linkedin.com/in/victordevsec/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
