@@ -8,27 +8,15 @@
 ---
 
 ## 🛠️ Arsenal Tecnológico
-Utilizo tecnologias modernas para construir aplicações seguras, robustas e escaláveis.
 
 ### 🌐 Stack Principal
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <br/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
-
----
-
-## 🎯 Sobre Mim
-- 🎓 **Background:** Graduado em Cibersegurança e Pós em Análise e Desenvolvimento de Sistemas.
-- 🔭 **Foco Atual:** Criando soluções de alta performance com **Go** e aplicações robustas com **Laravel**.
-- 🐍 **Especialidade:** Profundo conhecimento no ecossistema **Python** para automação.
-- ⚡ **Diferencial:** Uno boas práticas de segurança com código limpo e eficiente.
 
 ---
 
@@ -37,4 +25,6 @@ Utilizo tecnologias modernas para construir aplicações seguras, robustas e esc
   <a href="https://www.linkedin.com/in/victordevsec/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</div>
+
 </div>
